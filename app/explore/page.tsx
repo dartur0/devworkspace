@@ -1,7 +1,7 @@
 import { createClient } from '@/lib/supabase';
 import SnippetCard from '@/components/SnippetCard';
 
-export const revalidate = 3600;
+export const dinamic = 'force-dynamic';
 
 export default async function ExplorePage() {
   const supabase = await createClient();
