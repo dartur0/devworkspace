@@ -2,6 +2,9 @@
 
 DevWorkspace is a web-based code snippet manager and AI prompt repository. It features an interactive editor, automatic AI-based code tagging, and a public directory for shared snippets.
 
+## Live Demo
+* **URL:** [https://devworkspace-chi.vercel.app](https://devworkspace-chi.vercel.app)
+
 ## Tech Stack
 
 * **Framework:** Next.js 15 (App Router, Server Actions)
